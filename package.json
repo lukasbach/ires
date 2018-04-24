@@ -1,6 +1,6 @@
 {
   "name": "ires",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A commandline tool for duplicating and resizing image files.",
   "keywords": [
     "cli", "image", "resize", "bulk", "duplicate", "files"
