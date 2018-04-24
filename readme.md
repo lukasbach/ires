@@ -5,7 +5,7 @@ quantities of images into arbitrary quantities of target image sizes.
 
 ## Installing and running
 
-node.js and npm is required for the tool to run (https://nodejs.org/en/download/).
+ [node.js](https://nodejs.org/en/download/) and npm are required for the tool to run.
 
 To install globally , run
 
@@ -60,7 +60,7 @@ With the respective sizes.
        
    Examples:
    
-        ires -i a.png b.png --sizes 10x15 20x25 {filename}-{extension}.{fileindex}.{sizeindex}-{width}x{height}
+        ires -i a.png b.png --sizes 10x15 20x25 -o {filename}-{extension}.{fileindex}.{sizeindex}-{width}x{height}
         
    Will render the files:
     
